@@ -246,8 +246,6 @@ Yᴏᴜʀ <ul>ᴘʀᴇᴍɪᴜᴍ ᴘʟᴀɴ</ul> ᴡɪʟʟ ʙᴇ ᴀᴄᴛɪᴠ
     MOVIES_UPDATE_TXT = """<b>#New_File_Added
 
 Title: {title}
-Rating: {rating}
-Genre: {genres}
 
 Description: Aᴀᴘᴋᴏ Yᴀʜᴀɴ Eᴋ Hɪ Fɪʟᴇ Mɪʟᴇɢɪ Oᴛʜᴇʀ Qᴜᴀʟɪᴛʏ वाली Fɪʟᴇ Cʜᴀʜɪᴇ Tᴏ Gʀᴏᴜᴘ Mᴇɪɴ Sᴇᴀʀᴄʜ Kᴀʀᴇɴ 👇
 
