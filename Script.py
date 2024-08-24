@@ -245,9 +245,9 @@ Yᴏᴜʀ <ul>ᴘʀᴇᴍɪᴜᴍ ᴘʟᴀɴ</ul> ᴡɪʟʟ ʙᴇ ᴀᴄᴛɪᴠ
 
     MOVIES_UPDATE_TXT = """<b>#New_File_Added
 
-📻 ᴛɪᴛʟᴇ - {title}
-📆 ʏᴇᴀʀ - {release_date}
-❗️ ʟᴀɴɢᴜᴀɢᴇ - {languages}
+📻 ᴛɪᴛʟᴇ: {title}
+📆 ʏᴇᴀʀ: {release_date}
+❗️ ʟᴀɴɢᴜᴀɢᴇ: {languages}
 
 Description: Aᴀᴘᴋᴏ Yᴀʜᴀɴ Eᴋ Hɪ Fɪʟᴇ Mɪʟᴇɢɪ Oᴛʜᴇʀ Qᴜᴀʟɪᴛʏ वाली Fɪʟᴇ Cʜᴀʜɪᴇ Tᴏ Gʀᴏᴜᴘ Mᴇɪɴ Sᴇᴀʀᴄʜ Kᴀʀᴇɴ 👇
 
