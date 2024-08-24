@@ -245,7 +245,10 @@ Yᴏᴜʀ <ul>ᴘʀᴇᴍɪᴜᴍ ᴘʟᴀɴ</ul> ᴡɪʟʟ ʙᴇ ᴀᴄᴛɪᴠ
 
     MOVIES_UPDATE_TXT = """<b>#New_File_Added
 
-Title: {title}
+    IMDB_TEMPLATE_TXT = """<b>📻 ᴛɪᴛʟᴇ - <a href={url}>{title}</a>
+📆 ʏᴇᴀʀ - {release_date}
+❗️ ʟᴀɴɢᴜᴀɢᴇ - {languages}</b>
+"""
 
 Description: Aᴀᴘᴋᴏ Yᴀʜᴀɴ Eᴋ Hɪ Fɪʟᴇ Mɪʟᴇɢɪ Oᴛʜᴇʀ Qᴜᴀʟɪᴛʏ वाली Fɪʟᴇ Cʜᴀʜɪᴇ Tᴏ Gʀᴏᴜᴘ Mᴇɪɴ Sᴇᴀʀᴄʜ Kᴀʀᴇɴ 👇
 
